@@ -7,3 +7,4 @@ git commit
 
 
 複数の変更をadd,commit
+git status
